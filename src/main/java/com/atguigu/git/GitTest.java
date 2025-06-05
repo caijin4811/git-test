@@ -1,0 +1,12 @@
+package com.atguigu.git;
+
+/**
+ * @author : cai_jin
+ * @date : 2025/6/5 22:51
+ * @modyified By :
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git test!");
+    }
+}
